@@ -1,89 +1,84 @@
-# Hello Git & GitHub
+# Tour de Francia: Un Vistazo a los Mejores Ciclistas de la Historia
 
-[![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
+[![Tour de Francia](https://img.shields.io/badge/Tour_de_Francia-Grand_Tour-FFD700?style=for-the-badge&logo=lemonade&logoColor=white&labelColor=101010)](https://www.letour.fr/en/)
 
-## Curso para aprender a trabajar con Git & GitHub desde cero y para principiantes
+## Introducción al Tour de Francia
 
-![](./Images/header.jpg)
+El Tour de Francia es la carrera ciclista más prestigiosa del mundo, celebrada anualmente desde 1903. Esta competencia, que recorre las montañas y valles de Francia, así como otros países vecinos, es un verdadero testamento a la resistencia, estrategia y habilidad de los mejores ciclistas del mundo.
 
-### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
-> ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
+![](./Images/tour_de_francia.jpg)
 
-## Próxima clase
+### ¿Qué es el Tour de Francia?
 
-### 📚 Clase 4: Miércoles 8 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1068152669652402186) con la hora por país
+El Tour de Francia es una carrera por etapas que se lleva a cabo durante tres semanas en julio. Los ciclistas compiten por el codiciado maillot amarillo, otorgado al líder de la clasificación general. Esta carrera se compone de diferentes tipos de etapas: llanas, de montaña, contrarreloj y etapas mixtas, que prueban la versatilidad de los ciclistas.
 
-## Clases en vídeo
+### Historia del Tour de Francia
 
-#### [Clase 1: 11/01/2023](https://www.twitch.tv/videos/1704382580?t=00h20m00s)
-* Introducción
-* ¿Qué es Git?
-* Historia
-* Instalación
-* Comandos básicos de la terminal: ls, pwd, cd, mkdir, touch
-* Configuración de Git
-* Conceptos Repositorio, Rama, Local, Stage, Snapshot (fotografía)
-* Comandos de Git: init, status, add, commit, log, checkout, reset, diff, alias
-* Cómo ignorar archivos con .gitignore
+El Tour ha visto a numerosos ciclistas legendarios, desde los primeros ganadores como Maurice Garin, hasta los dominadores modernos como Chris Froome y Tadej Pogačar. Aquí exploraremos a algunos de los mejores ciclistas que han dejado su marca en la historia de la carrera.
 
-#### [Clase 2: 18/01/2023](https://www.twitch.tv/videos/1711260603?t=00h20m00s)
-* Comandos de Git: git reset --hard, reflog, revert
-* Tags: git tag, git checkout tags/tag
-* Trabajar con ramas: git branch, switch, merge
-* Trabajar con reserva de código: git stash
+## Los Mejores Ciclistas del Tour de Francia
 
-#### [Clase 3: 25/01/2023](https://www.twitch.tv/videos/1718205579?t=00h15m00s)
-* Comandos de Git: git remote, push, fetch, pull, clone
-* Creación de una página personal en GitHub
-* Configuración SSH GitHub
-* Colaboración en GitHub: fork, pull request
+### 1. **Eddy Merckx**
+[![Eddy Merckx](https://img.shields.io/badge/Eddy_Merckx-5_Victorias-1A1A1A?style=for-the-badge&logo=bicycle&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Eddy_Merckx)
 
-🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1068152669652402186)**
+- **Nacionalidad**: Belga
+- **Victorias**: 5 (1969, 1970, 1971, 1972, 1974)
+- **Apodo**: "El Caníbal"
+- **Descripción**: Considerado por muchos como el mejor ciclista de todos los tiempos, Merckx dominó el Tour de Francia con una combinación de potencia, resistencia y astucia táctica. No solo ganó la clasificación general cinco veces, sino que también se llevó múltiples etapas y portó el maillot verde de la clasificación por puntos.
 
-### Ejercicio:
-Si estás participando en el curso y ya has visto la clase 3, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
+### 2. **Miguel Induráin**
+[![Miguel Induráin](https://img.shields.io/badge/Miguel_Induráin-5_Victorias-1E90FF?style=for-the-badge&logo=bicycle&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Miguel_Indur%C3%A1in)
 
-## Enlaces de interés
+- **Nacionalidad**: Español
+- **Victorias**: 5 (1991, 1992, 1993, 1994, 1995)
+- **Apodo**: "Big Mig"
+- **Descripción**: Induráin es famoso por su fortaleza en las etapas contrarreloj y su capacidad para mantener un ritmo constante en las montañas. Fue el primer ciclista en ganar cinco Tours consecutivos, un logro que sigue siendo una de las mayores hazañas en la historia del ciclismo.
 
-* [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
-* [Libro]() de Git en Español (Gratis)
-* ¿Con qué herramientas estoy trabajando?: [iTerm](https://iterm2.com/), [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
-* [Guía](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/) con comandos de Git más utilizados
-* [Web](https://github.com) GitHub
-* [Documentación](https://docs.github.com/es) GitHub
-* [Configuración](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh) SSH
+### 3. **Bernard Hinault**
+[![Bernard Hinault](https://img.shields.io/badge/Bernard_Hinault-5_Victorias-FF4500?style=for-the-badge&logo=bicycle&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Bernard_Hinault)
 
-## Información importante
+- **Nacionalidad**: Francés
+- **Victorias**: 5 (1978, 1979, 1981, 1982, 1985)
+- **Apodo**: "El Tejón"
+- **Descripción**: Hinault es el último ciclista francés en haber ganado el Tour de Francia, y lo hizo con un estilo agresivo y combativo. Su capacidad para atacar en cualquier terreno lo convirtió en uno de los ciclistas más emocionantes de su generación.
 
-* He creado en el [Discord](https://discord.gg/mouredev) un canal "🐙git-github" para que puedas comentar lo que quieras.
-* Una vez finalice cada clase en directo, actualizaré el repositorio con todo el material.
-* Cada clase en vídeo permanece en [Twitch](https://www.twitch.tv/mouredev/videos) 60 días.
-* Cuando se finalice un bloque de clases del curso, éste se editará y se subirá completo a [YouTube](https://www.youtube.com/@mouredev).
+### 4. **Jacques Anquetil**
+[![Jacques Anquetil](https://img.shields.io/badge/Jacques_Anquetil-5_Victorias-800080?style=for-the-badge&logo=bicycle&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Jacques_Anquetil)
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+- **Nacionalidad**: Francés
+- **Victorias**: 5 (1957, 1961, 1962, 1963, 1964)
+- **Apodo**: "Monsieur Crono"
+- **Descripción**: Anquetil fue el primer ciclista en ganar el Tour cinco veces. Conocido por su habilidad en las contrarreloj, dominó la carrera durante los años 60, estableciendo un estándar que muchos intentaron seguir.
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+### 5. **Chris Froome**
+[![Chris Froome](https://img.shields.io/badge/Chris_Froome-4_Victorias-FFD700?style=for-the-badge&logo=bicycle&logoColor=white&labelColor=101010)](https://en.wikipedia.org/wiki/Chris_Froome)
 
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
+- **Nacionalidad**: Británico
+- **Victorias**: 4 (2013, 2015, 2016, 2017)
+- **Apodo**: "Froomey"
+- **Descripción**: Froome es uno de los ciclistas más exitosos de la era moderna del Tour. Su capacidad para mantener la calma bajo presión y su excepcional rendimiento en las etapas de montaña y contrarreloj lo han llevado a la cima en múltiples ocasiones.
 
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
+## Enlaces de Interés
 
-## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-### Freelance full-stack iOS & Android engineer
+* [Web Oficial del Tour de Francia](https://www.letour.fr/en/)
+* [Historia del Tour de Francia](https://en.wikipedia.org/wiki/Tour_de_France)
+* [Estadísticas del Tour de Francia](https://www.procyclingstats.com/race/tour-de-france/overview)
+* [Documentales sobre el Tour](https://www.netflix.com)
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+## ¡Únete a la conversación!
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Si eres un apasionado del ciclismo, te invitamos a unirte a nuestro servidor de Discord para discutir las últimas noticias del Tour de Francia y otros eventos ciclistas.
 
-### En mi perfil de GitHub tienes más información
+[![Discord](https://img.shields.io/badge/Discord-Ciclismo-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/ejemplociclismo)
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+## ¡Síguenos para más contenido!
+
+Mantente al día con las últimas actualizaciones sobre el Tour de Francia y otros grandes eventos del ciclismo mundial.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/tourdefrancia?style=social)](https://twitter.com/tourdefrancia)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/ejemplocanal?style=social)](https://youtube.com/tourdefrancia)
+[![Instagram](https://img.shields.io/badge/Instagram-Ciclismo-E4405F?style=social&logo=instagram)](https://instagram.com/tourdefrancia)
+
+---
+
+**Nota:** Este documento es un ejemplo y no está afiliado oficialmente con el Tour de Francia o los ciclistas mencionados.# proyect_fork
